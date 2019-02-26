@@ -1,4 +1,4 @@
-# modificacoes_hemps
+# modificacoes_HeMPS
 Este repositório detalha implementações na plataforma MPSoC HeMPS para aceitar novas heurísticas de mapeamento de tarefas.
 
 Por: Ezequiel Vidal - contato: ezequielvidal.ti@gmail.com
