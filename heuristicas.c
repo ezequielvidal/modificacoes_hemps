@@ -1,9 +1,12 @@
 /*Este arquivo apenas mostra de forma mais rapida a estrutura do codigo das heuristicas.
 Estes codigos estão implementados dentro do mpsoc hemps no arquivo resource_manager.c(hemps/hemps8.5/software/modules), 
 que foi modificado para receber as heuristicas. O código usa variaveis ja criadas na hemps, e para entender melhor o código
-deve-se fazer um estudo da mesma.
+deve-se fazer um estudo bem detalhado da mesma.
 Mais detalhes sobre as heuristicas estao nos artigos anexados ao repositorio no github
-*///ARQUIVO DEMONSTRATIVO
+**Cabe ressaltar que estas heurísticas originais são de autoria de Ewerson Carvalho(ewerson.carvalho@gmail.com), e que 
+aparecem aqui já adaptadas às variáveis e particularidades da plataforma HeMPS.*/
+
+//ARQUIVO DEMONSTRATIVO
 
 
 // heuristica FF - mapeia tarefa para o primeiro EP livre
