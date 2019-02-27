@@ -3,7 +3,7 @@ Estes codigos estão implementados dentro do mpsoc hemps no arquivo resource_man
 que foi modificado para receber as heuristicas. O código usa variaveis ja criadas na hemps, e para entender melhor o código
 deve-se fazer um estudo bem detalhado da mesma.
 Mais detalhes sobre as heuristicas estao nos artigos anexados ao repositorio no github
-**Cabe ressaltar que estas heurísticas originais são de autoria de Ewerson Carvalho(ewerson.carvalho@gmail.com), e que 
+**Cabe ressaltar que as heurísticas originais são de autoria de Ewerson Carvalho(ewerson.carvalho@gmail.com), e que 
 aparecem aqui já adaptadas às variáveis e particularidades da plataforma HeMPS.*/
 
 //ARQUIVO DEMONSTRATIVO
