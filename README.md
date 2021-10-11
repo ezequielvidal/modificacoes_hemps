@@ -3,7 +3,7 @@ Este repositório detalha implementações na plataforma MPSoC HeMPS para aceita
 
 Por: Ezequiel Vidal - contato: ezequielvidal.ti@gmail.com
 
-INFORMACOES REFERENTES AS MODIFICACOES REALIZADAS NA HEMPS
+INFORMACOES REFERENTES ÀS MODIFICACOES REALIZADAS NA HEMPS
 
 *Todos os codigos estão na pasta compactada "hemps_novas_implementacoes.zip" deste repositorio.
 
